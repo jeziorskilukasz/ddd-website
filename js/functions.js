@@ -15,9 +15,6 @@
     });
 
 
-
-
-    // portfolio
     if($('.isotopeWrapper').length){
 
         var $container = $('.isotopeWrapper');
@@ -67,7 +64,6 @@
     }
 
 
-    // fancybox
     jQuery(".fancybox").fancybox();
 
 
